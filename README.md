@@ -6,7 +6,7 @@ MyAwesomeApp is a comprehensive productivity and lifestyle management applicatio
 The app offers a user-friendly interface and multiple features to enhance productivity and goal tracking.
 
 **Key Features**
-**User Authentication**
+**User Authentication** /
 Secure login and logout functionalities to ensure user privacy and data security.
 
 **PAGES**
