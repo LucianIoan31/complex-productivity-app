@@ -2,12 +2,14 @@
 Complex Productivity App: A versatile React-based productivity tool for efficient task management, habit tracking, journaling, and goal setting in one intuitive platform.
 
 **Overview**
-MyAwesomeApp is a comprehensive productivity and lifestyle management application designed to help users organize their daily routines, tasks, events, journals, and goals efficiently. The app offers a user-friendly interface and multiple features to enhance productivity and goal tracking.
+MyAwesomeApp is a comprehensive productivity and lifestyle management application designed to help users organize their daily routines, tasks, events, journals, and goals efficiently. 
+The app offers a user-friendly interface and multiple features to enhance productivity and goal tracking.
 
 **Key Features**
 **User Authentication**
 Secure login and logout functionalities to ensure user privacy and data security.
-Pages
+
+**PAGES**
 
 **Habit Tracker**
 
